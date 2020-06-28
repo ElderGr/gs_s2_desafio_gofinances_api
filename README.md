@@ -7,6 +7,8 @@ Para a execução do projeto em seu ambiente local é necessário possuir instal
 - NodeJS em sua versão LTS
 > https://nodejs.org/en/
 
+- Ambiente PostgreSQL configurado ou imagem Docker PostgreSQL
+
 ## 🛠 Guia de instalação
 1. Faça download do projeto do github
 2. Após ter feito download do projeto, acesse o diretorio raiz do mesmo via linha de comando
