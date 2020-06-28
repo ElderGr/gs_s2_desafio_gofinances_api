@@ -2,8 +2,6 @@ import { Router } from 'express';
 
 import { getCustomRepository } from 'typeorm';
 import multer from 'multer';
-import csvParse from 'csv-parse';
-import fs from 'fs';
 
 import TransactionsRepository from '../repositories/TransactionsRepository';
 import CreateTransactionService from '../services/CreateTransactionService';
